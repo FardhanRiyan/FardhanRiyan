@@ -44,13 +44,13 @@ I am a **Fullstack Developer** focused on building web applications end to end, 
   <a href="https://www.linkedin.com/in/[linkedin-username]">
     <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
   </a>
-  <a href="https://www.instagram.com/[instagram-username]">
+  <a href="https://www.instagram.com/[fafarr_14">
     <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram" />
   </a>
-  <a href="mailto:[email@domain.com]">
+  <a href="mailto:fardhanriyandhika@gmail.com">
     <img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
   </a>
-  <a href="https://github.com/[github-username]">
+  <a href="https://github.com/FardhanRiyan">
     <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
   </a>
 </p>
